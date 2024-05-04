@@ -1,0 +1,77 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.box{
+    width: 460px;
+    height: 1160px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 35%;
+    border-radius: 15px;
+    margin-top: 3%;
+
+}
+img{
+    width: 410px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(244, 227, 217);
+}
+h1{
+    margin-left: 25px;
+    font-family: serif;
+    font-size: 29px;
+    margin-top: -1px;
+    margin-top: 2%;
+}
+p{
+    font-family: arial;
+    font-size: 9.5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -8px;
+    font-weight: 530;
+}
+.box1{
+    width: 410px;
+    height: 125px;
+    background-color: rgb(255, 242, 249);
+    margin: 25px;
+    border-radius: 10px;
+}
+h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 5%;
+    color: rgb(192, 50, 97);
+}
+li{
+    font-family: sans-serif;
+    margin-left: 5%;
+    font-size: 10px;
+    padding: 1%;
+}
+.pt{
+    padding-top: 1px;
+
+}
+h2{
+    color: rgb(160, 68, 68);
+    margin-left: 25px;
+    font-family: serif;
+}
+.dot::before{
+    color: rgb(105, 48, 48);
+}
+.dot1::before{
+    color: brown;
+}
+li::before{
+    color: black;
+}
+.text{
+    display: flex;
+}
